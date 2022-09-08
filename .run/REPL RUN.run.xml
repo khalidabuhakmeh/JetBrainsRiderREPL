@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="REPL RUN" type="RunDotNetWatch" factoryName="RunDotNetWatch">
+    <option name="exePath" value="$PROJECT_DIR$/bin/Debug/net6.0/REPL" />
+    <option name="programParameters" value="" />
+    <option name="projectFilePath" value="$PROJECT_DIR$/REPL.csproj" />
+    <option name="projectTfm" value="net6.0" />
+    <option name="restartOnRudeEditEditor" value="true" />
+    <option name="suppressHotReload" value="true" />
+    <option name="verbosity" value="QUIET" />
+    <option name="workingDirectory" value="$PROJECT_DIR$/bin/Debug/net6.0" />
+    <method v="2" />
+  </configuration>
+</component>
